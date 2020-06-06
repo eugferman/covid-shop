@@ -1,0 +1,15 @@
+.body-aboutus{
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+
+  div{
+    width: 600px;
+    padding: 10px;
+  }
+
+  p{
+    text-align: justify;  
+  }
+}
+
